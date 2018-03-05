@@ -11,6 +11,8 @@ Implementar uma aplicação para gerenciar os candidatos que estão em processo 
 Dependendo da sua experiência e/ou das ferramentas escolhidas, você pode precisar de mais ou menos tempo para realizar o desafio.
 Lembre-se que vamos avaliar a sua capacidade de estimativa e também a sua capacidade em executar o projeto no tempo planejado.
 
+Ao efetuar a estimativa para realização, por favor avise o RH.
+
 
 ### **Requisitos** ###
 * Eu como usuário, desejo visualizar a listagem de candidatos;
