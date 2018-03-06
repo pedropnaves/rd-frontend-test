@@ -69,6 +69,7 @@ O sistema deve seguir o layout proposto, com isso as funcionalidades a serem des
 
 ### ** Desejável *** ###
 * A aplicação deve ser responsiva (mobile, tablet, desktop);
+* Publicar o projeto em alguma plataforma (Heroku, Wedeploy, etc), afim de ser possível visualizar através de um link;
 
 ### **Especificações Gerais** ###
 * Utilizar React, Vue ou Angular;
