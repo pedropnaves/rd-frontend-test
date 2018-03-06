@@ -45,17 +45,28 @@ O sistema deve seguir o layout do Marvel, com isso as funcionalidades a serem de
 * Armazenar todas as informações no estado utilizando a arquitetura Flux (Redux, Vuex e etc);
 * Ao navegar nos filtros laterais, todas as informações devem já estar no estado;
 * Ao pesquisar, deverá ser armazenado no estado todas as pesquisas realizadas na sessão atual;
+* Configurar eslint;
 * (Desejável/Bônus) Microinteração da interface;
 * (Desejável/Bônus) Testes unitários;
+* (Desejável/Bônus) Utilizar algum bundle size (Webpack, Rollup ou Parcel);
 
 **Nível Senior**
 * Todos os requisitos dos níveis anterior;
 * Paginação infinita ao invés da númerada;
-* Microinteração da interface
-* Testes unitários;
+* Microinteração da interface;
+* Testes unitários (mínimo de 70% de coverage);
 * Execução dos testes unitários no build do projeto;
+* Utilizar ferramenta para internacionalização (criar bundle de linguagem i18n);
+* Utilizar algum bundle size (Webpack, Rollup ou Parcel);
+* Utilizar alguma metodologia para CSS (BEM, SMACSS, OOCSS, ATOMIC CSS, DRY CSS);
+* (Desejável/Bônus) Realizar testes de snapshot;
 * (Desejável/Bônus) Apresentação do coverage dos testes unitários;
+* (Desejável/Bônus) Criar o Story Book dos Components;
+* (Desejável/Bônus) Separar Dump Components e publicá-los no NPM;
+* (Desejável/Bônus) CSS in JS
 
+### ** Desejável *** ###
+* A aplicação deve ser responsiva (mobile, tablet, desktop);
 
 ### **Especificações Gerais** ###
 * Utilizar React, Vue ou Angular;
