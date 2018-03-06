@@ -62,7 +62,7 @@ O sistema deve seguir o layout do Marvel, com isso as funcionalidades a serem de
 * (Desejável/Bônus) Realizar testes de snapshot;
 * (Desejável/Bônus) Apresentação do coverage dos testes unitários;
 * (Desejável/Bônus) Criar o Story Book dos Components;
-* (Desejável/Bônus) Separar Dump Components e publicá-los no NPM;
+* (Desejável/Bônus) Separar Dumb Components e publicá-los no NPM;
 * (Desejável/Bônus) CSS in JS
 
 ### ** Desejável *** ###
