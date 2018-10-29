@@ -58,9 +58,9 @@ O sistema deve seguir o layout proposto, com isso as funcionalidades a serem des
 * Microinterações na interface;
 * Testes unitários (mínimo de 70% de coverage);
 * Execução dos testes unitários no build do projeto;
-* Utilizar ferramenta para internacionalização (criar bundle de linguagem i18n);
 * Utilizar algum bundle size (Webpack, Rollup ou Parcel);
 * Utilizar alguma metodologia para CSS (BEM, SMACSS, OOCSS, ATOMIC CSS, DRY CSS);
+* (Desejável/Bônus) Fazer internacionalização da aplicação;
 * (Desejável/Bônus) Realizar testes de snapshot;
 * (Desejável/Bônus) Apresentação do coverage dos testes unitários;
 * (Desejável/Bônus) Criar o Story Book dos Components;
