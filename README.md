@@ -1,4 +1,4 @@
-# \<Desafio 1 Frontend />
+# \<Desafio 1 Frontend  />
 
 **Objetivo:**
 Implementar uma aplicação para gerenciar pessoas. Essa aplicação necessita ser executada nos navegadores mais recentes do mercado.
